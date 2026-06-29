@@ -6,6 +6,6 @@ El objetivo es colaborar en un proyecto sencillo en Python con tres módulos sep
   Contiene funciones para realizar suma, resta, multiplicación y división.
 2.cuento.py
   Imprime un cuento corto en pantalla.
-3.conversor_temperatura.py
+3.conversor_unidades.py
    Convierte temperaturas entre Celsius y Fahrenheit.
    

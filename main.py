@@ -3,7 +3,7 @@ Archivo principal del proyecto.
 Desde aquí se ejecutan los tres módulos del repositorio colaborativo.
 """
 
-from operacionesmatematicas import mostrar_operaciones
+from operaciones_matematicas import mostrar_operaciones
 from cuento import imprimir_cuento
 from conversor_unidades import mostrar_conversiones
 
