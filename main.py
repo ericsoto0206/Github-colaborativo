@@ -3,9 +3,9 @@ Archivo principal del proyecto.
 Desde aquí se ejecutan los tres módulos del repositorio colaborativo.
 """
 
-from operaciones_matematicas import mostrar_operaciones
-from cuento import imprimir_cuento
-from conversor_unidades import mostrar_conversiones
+from modulos.operaciones_matematicas import mostrar_operaciones
+from modulos.cuento import imprimir_cuento
+from modulos.conversor_unidades import mostrar_conversiones
 
 
 def mostrar_menu():
