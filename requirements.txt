@@ -1,0 +1,3 @@
+# Este proyecto no requiere librerías externas actualmente.
+# Solo utiliza módulos estándar de Python (unittest, etc.)
+# Se deja este archivo preparado para futuras dependencias.
